@@ -11,10 +11,8 @@ folder is orgarnized as follows.
 
 ```
 proj/
-├── lib/
 ├── data/
 ├── doc/
-├── figs/
 └── output/
 ```
 Please see each subfolder for a README file.
